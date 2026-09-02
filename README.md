@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="1c26f2ef-a9d1-4dc6-b46f-8abbe4f30c8f.jfif" alt="Banner" width="100%">
+</p>
 <h1 align="center">Hi 👋, I'm Takiya Jahan Prome</h1>
 <h3 align="center">A passionate Full Stack Developer learner from Bangladesh</h3>
 
